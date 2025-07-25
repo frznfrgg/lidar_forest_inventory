@@ -1,0 +1,1 @@
+Processed data from lidar is stored in .h5 formats
